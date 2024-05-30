@@ -1,6 +1,6 @@
 from pyqgis_scripting_ext.core import *
 
-folder_natural_earth="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/lesson6/packages/"
+folder_natural_earth="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/packages/"
 
 
 geopackagePath=folder+"natural_earth_vector.gpkg"
