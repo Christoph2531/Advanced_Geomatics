@@ -1,6 +1,6 @@
 from pyqgis_scripting_ext.core import *
 #0
-folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/lesson3/"
+folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/Advanced Geomatics/data/"
 path = f"{folder}02_exe0_geometries.csv"
 canvas = HMapCanvas.new()
 
