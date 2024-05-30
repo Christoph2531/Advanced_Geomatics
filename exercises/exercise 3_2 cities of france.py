@@ -1,7 +1,7 @@
 from pyqgis_scripting_ext.core import *
 
 
-folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/lesson6/packages/"
+folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/packages/"
 
 geopackagePath=folder+"natural_earth_vector.gpkg"
 citiesName="ne_50m_populated_places"
