@@ -1,5 +1,5 @@
 from pyqgis_scripting_ext.core import *
-folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/lesson7/"
+folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/Advanced Geomatics/data/"
 path=f"{folder}stations.txt"
 
 fields={
