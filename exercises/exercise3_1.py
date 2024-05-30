@@ -33,7 +33,7 @@ with open(path, "r") as file:
         point=HPoint(longitude,latitude)
         stationsLayer.add_feature(point,[stationid,stationname])
 
-path=folder+"stations.gpkg"
+path="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/"+"stations.gpkg"
 error=stationsLayer.dump_to_gpkg(path,overwrite=True)
 if error: 
     print(error)
