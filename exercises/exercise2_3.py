@@ -1,5 +1,5 @@
 from pyqgis_scripting_ext.core import *
-folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/lesson4/"
+folder="C:/Users/christoph/Documents/UniBz/Advanced Geomatics/Avanced Geomatics/data/"
 path=f"{folder}stations.txt"
 input_point=HPoint(11.34999,46.49809)
 min_distance=float("inf")
